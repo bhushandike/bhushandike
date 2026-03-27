@@ -13,8 +13,6 @@
 - 💻 I specialize in **Backend Development** and bringing **innovative ideas** to life through software.
 - 🚀 Currently exploring the depths of **Machine Learning**, **Data Science**, and **AI/ML**.
 - 🧩 I love the thrill of problem-solving and frequently practice **Data Structures & Algorithms (DSA)**.
-- 🎵 **Fun Fact:** When I'm not writing code, I'm laying down beats! I am a musician and play various percussion instruments like drums, tabla, and dholak. 🥁
-
 ---
 
 ### 🛠️ Technical Skills
