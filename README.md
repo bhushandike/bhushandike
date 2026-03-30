@@ -57,7 +57,7 @@
 
 ### 📫 Let's Connect!
 
-Feel free to reach out if you want to collaborate on a project, talk about tech, or jam on some instruments!
+Feel free to reach out if you want to collaborate on a project or talk about tech!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bhushan-dike/" target="_blank">
